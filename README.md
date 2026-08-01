@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi , I'm Modjadji Jessica Morwatshehla 👋
 
-<!--
-**Jessica054/Jessica054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Full Stuck Software Developer
 
-Here are some ideas to get you started:
+I build scalable, maintainable, and production ready software that solves real business. My focus is on designing enterprise applications with clean architecture, secure backend services, and modern frontend technologies. I like learning new technologies by building complete systems across different business domains, continuously improving my software engineering skills and understanding of system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# About Me
+
+-Full Stuck Software Developer 
+-Backend focused with  full stuck development experience 
+-Passionate about software architecture and clean code 
+-Building enterprise grade portfolio projects
+-Continuously learning new programming languages, frameworks, and cloud  technologies
+
+
+## Current Focus
+
+-Enterprise Software Development
+-System Design & Architecture
+-Backend Engineering 
+-Cloud Technologies 
+-Microservices 
+-DevOps 
+-Software Engineering Best Practices
+
+
+## Technologies
+
+### Languages
+-Java 
+-C#
+-JavaScript
+-TypeScript
+-SQL
+
+### Backend
+
+-Spring Boot
+-ASP.NET Core
+-Node.js 
+-REST APIs
+
+### Frontend 
+
+-Angular
+-React
+-HTML
+-CSS
+-Tailwind CSS
+
+### Databases
+
+-PostgreSQL
+-MySQL
+-SQL Server 
+-MongoDB
+
+### Tools
+
+-Git
+-GitHub
+-Docker
+-Postman
+-Maven
+
+## Current Goal
+I am building a collection of enterprise application across multiple technology stacks to strengthen my software engineering skills and deliver  production quality solutions.
+
+
+
+# Connect 
+
+-LinkedIn
+-Email
+
+
